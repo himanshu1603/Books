@@ -1,5 +1,6 @@
 import React from 'react';
 import Books from '../data/books.json';
+import { Link } from 'react-router-dom';
 
 
 const Bookdetails = (props) => {
@@ -18,7 +19,7 @@ const Bookdetails = (props) => {
         <p>
         Wikipedia:
         </p>
-        <a href="/" class="btn btn-secondary">Back</a>
+        <Link to="/" class="btn btn-secondary">Back</Link>
         </div>
     )
 
