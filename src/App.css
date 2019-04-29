@@ -20,7 +20,21 @@ a {
     
 }
 
-.page-footer{
+.page-footer {
     clear: both;
     margin-top: 40px;
+    color: aliceblue;
+}
+
+.page-footer a {
+    color:aliceblue;
+}
+.details {
+    clear: both;
+    text-align: center;
+/*
+    padding-left: 20%;
+    padding-right: 20%;
+*/
+    padding: 50px 20%;
 }

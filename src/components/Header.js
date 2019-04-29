@@ -5,18 +5,22 @@ const Header = () => {
         <header>
             <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
               
-              <a class="navbar-brand" href="#">Logo</a>
+              <a class="navbar-brand" href="/"><i class="fas fa-book"></i></a>
+           
 
               
               <ul class="navbar-nav">
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Link 1</a>
+                  <a class="nav-link" href="/">Home</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Link 2</a>
+                  <a class="nav-link" href="/about">About</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Link 3</a>
+                  <a class="nav-link" href="/team">Team</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="/contact">Contact Us</a>
                 </li>
               </ul>
             </nav>

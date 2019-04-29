@@ -3,7 +3,7 @@ import Cards from'./Cards'
 
 import Books from '../data/books.json';
 
-const Booklist = () => {
+const Home = () => {
     return (
         <div className = "list">
             {
@@ -24,4 +24,6 @@ const Booklist = () => {
     )
 }
 
-export default Booklist;
+
+export default Home;
+

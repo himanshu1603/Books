@@ -14,7 +14,7 @@ const Footer = () => {
 
           
           <h5 class="text-uppercase">Footer Content</h5>
-          <p>Here you can use rows and columns here to organize your footer content.</p>
+          <p>This is a react application showing books data and their details</p>
 
         </div>
         
@@ -24,21 +24,13 @@ const Footer = () => {
         <div class="col-md-3 mb-md-0 mb-3">
 
             
-            <h5 class="text-uppercase">Links</h5>
+            <h5 class="text-uppercase">Emails</h5>
 
             <ul class="list-unstyled">
               <li>
-                <a href="#!">Link 1</a>
+                <a href="#!">Link </a>
               </li>
-              <li>
-                <a href="#!">Link 2</a>
-              </li>
-              <li>
-                <a href="#!">Link 3</a>
-              </li>
-              <li>
-                <a href="#!">Link 4</a>
-              </li>
+              
             </ul>
 
           </div>
@@ -46,35 +38,23 @@ const Footer = () => {
           <div class="col-md-3 mb-md-0 mb-3">
 
           
-            <h5 class="text-uppercase">Links</h5>
+            <h5 class="text-uppercase">Follow</h5>
 
             <ul class="list-unstyled">
               <li>
-                <a href="#!">Link 1</a>
+                <a href="#!">Link </a>
               </li>
-              <li>
-                <a href="#!">Link 2</a>
-              </li>
-              <li>
-                <a href="#!">Link 3</a>
-              </li>
-              <li>
-                <a href="#!">Link 4</a>
-              </li>
+              
             </ul>
 
           </div>
           
-
-      </div>
+        </div>
      
-
     </div>
-   
-
     
-    <div class="footer-copyright text-center py-3">© 2018 Copyright:
-      <a href="https://mdbootstrap.com/education/bootstrap/"> MDBootstrap.com</a>
+    <div class="footer-copyright text-center py-3">© 2019 Copyright
+     
     </div>
     
 
